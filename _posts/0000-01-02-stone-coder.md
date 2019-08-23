@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Wubba lubba dub dub
+Ricky ticky tabby - stone-coder
 Use the left arrow to go back!
